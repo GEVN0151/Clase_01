@@ -5,12 +5,12 @@
     padding: 0px;
 }
 body {
-    background-color: white;
+    background-color: rgb(233, 233, 233);
     color: black;
 }
 
 .header{
-    background-color: rgb(61, 51, 197);
+    background-color: rgb(8, 53, 169);
     border-radius: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: xx-large;
@@ -23,20 +23,20 @@ body {
 }
 
 .footer{
-    background-color: rgb(61, 51, 197);
+    background-color: rgb(8, 53, 169);
     border-radius: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 0.5rem;
+    font-size: 0.7rem;
     height: 25px;
     margin-left: 5%;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
     width: 90%;
     color: white;
 }
 
 .contenido{
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     border-radius: 15px;
     height: 710px;
     margin-left: 5%;
