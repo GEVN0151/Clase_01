@@ -2,25 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
-## Development server
+## Conceptos de la práctica con mis propias palabras
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Define que es un COMPONENTE y al crearlo que elementos lo forman.
 
-## Code scaffolding
+* Define que es un MÓDULO y que función tiene el patrón de diseño decorator.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Menciona y describe los elementos importantes de un @NgModule.
 
-## Build
+* Subir tu práctica al GitHub y comparte en la entrega de Elearning en la entrega correspondiente de la Unidad 2.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Modificar el componente que tenga el atributo titulo y en el constructor asignarle el valor "Welcome tu Angular"; en el componente HTML invocar el atributo titulo.
 
-## Running unit tests
+* Crear un Layout donde se despliegue el Header con una barra de menús, no se te olvide el estilo.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Igualmente invocar el componente Footer dentro del layout, no se te olvide el estilo.
 
-## Running end-to-end tests
+* Define una clase que se llame Usuario con los atributos email, contraseña y métodos login y register.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* Desplegar la aplicación en StackBlitz.
+
 
 ## Further help
 
